@@ -47,7 +47,7 @@
 <tr>
 <td align="center">2022.09 - 2022.10</td>
 <td align="center">Web</td>
-<td><a href="https://github.com/testerhyuk/twitter_clone">트위터</a> (트위터 클론 코딩)</td>
+<td><a href="https://github.com/testerhyuk/twitterclone">트위터</a> (트위터 클론 코딩)</td>
 </tr>
 <tr>
 <td align="center">2022.09 - 2022.10</td>
