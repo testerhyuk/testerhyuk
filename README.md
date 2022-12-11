@@ -57,6 +57,11 @@
 <tr>
 <td align="center">2022.10 - 2022.11</td>
 <td align="center">Web</td>
+<td><a href="https://github.com/testerhyuk/netflix_clone">넷플릭스</a> (넷플릭스 클론 코딩)</td>
+</tr>
+<tr>
+<td align="center">2022.11 - 2022.12</td>
+<td align="center">Web</td>
 <td><a href="https://github.com/testerhyuk/reddit_clone">레딧</a> (커뮤니티 레딧 클론 코딩)</td>
 </tr>
 </tbody>
