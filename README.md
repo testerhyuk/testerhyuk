@@ -40,24 +40,14 @@
 <td><a href="https://github.com/testerhyuk/Spark">마켓 데이터 분석</a> (Spark상에서 Kaggle 데이터 분석 및 모델링 예측)</td>
 </tr>
 <tr>
-<td align="center">2022.08 - 2022.09</td>
-<td align="center">Responsive</td>
-<td><a href="https://github.com/testerhyuk/sulhwasoo">설화수</a> (설화수 클론 코딩)</td>
-</tr>
-<tr>
 <td align="center">2022.09 - 2022.10</td>
 <td align="center">Web</td>
 <td><a href="https://github.com/testerhyuk/twitterclone">트위터</a> (트위터 클론 코딩)</td>
 </tr>
 <tr>
-<td align="center">2022.09 - 2022.10</td>
+<td align="center">2023.01 - 2023.01</td>
 <td align="center">Web</td>
-<td><a href="https://github.com/testerhyuk/smartcar">스마트카</a> (스마트카 파일럿 프로젝트)</td>
-</tr>
-<tr>
-<td align="center">2022.10 - 2022.11</td>
-<td align="center">Web</td>
-<td><a href="https://github.com/testerhyuk/netflix_clone">넷플릭스</a> (넷플릭스 클론 코딩)</td>
+<td><a href="https://github.com/testerhyuk/squarebox">스퀘어박스</a> (OTT Squarebox)</td>
 </tr>
 <tr>
 <td align="center">2022.11 - 2022.12</td>
