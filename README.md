@@ -41,12 +41,12 @@
 </tr>
 <tr>
 <td align="center">2022.09 - 2022.10</td>
-<td align="center">Web</td>
+<td align="center">Web - React & Firebase</td>
 <td><a href="https://github.com/testerhyuk/twitterclone">트위터</a> (트위터 클론 코딩)</td>
 </tr>
 <tr>
 <td align="center">2023.01 - 2023.01</td>
-<td align="center">Web</td>
+<td align="center">Web- React & Springboot</td>
 <td><a href="https://github.com/testerhyuk/squarebox">스퀘어박스</a> (OTT Squarebox)</td>
 </tr>
 <tr>
