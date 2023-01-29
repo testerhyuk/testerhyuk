@@ -52,7 +52,7 @@
 <tr>
 <td align="center">2022.11 - 2022.12</td>
 <td align="center">Web</td>
-<td><a href="https://github.com/testerhyuk/samlluniverse">소우주</a> (커뮤니티)</td>
+<td><a href="https://github.com/testerhyuk/smalluniverse">소우주</a> (커뮤니티)</td>
 </tr>
 </tbody>
 </table>
