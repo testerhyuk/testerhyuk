@@ -51,7 +51,7 @@
 </tr>
 <tr>
 <td align="center">2022.11 - 2022.12</td>
-<td align="center">Web</td>
+<td align="center">Web-React, TypeScript, Nextjs</td>
 <td><a href="https://github.com/testerhyuk/smalluniverse">소우주</a> (커뮤니티)</td>
 </tr>
 </tbody>
