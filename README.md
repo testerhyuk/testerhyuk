@@ -35,24 +35,14 @@
 <td><a href="https://github.com/AIVLE-School-first-Big-Project/Acachu">어카추</a>(이미지와 리뷰를 활용한 인공지능 카페 추천 서비스)</td>
 </tr>
 <tr>
-<td align="center">2022.07 - 2022.08</td>
-<td align="center">Data Analysis</td>
-<td><a href="https://github.com/testerhyuk/Spark">마켓 데이터 분석</a> (Spark상에서 Kaggle 데이터 분석 및 모델링 예측)</td>
-</tr>
-<tr>
-<td align="center">2022.09 - 2022.10</td>
-<td align="center">Web - React & Firebase</td>
-<td><a href="https://github.com/testerhyuk/twitterclone">트위터</a> (트위터 클론 코딩)</td>
-</tr>
-<tr>
 <td align="center">2023.01 - 2023.01</td>
 <td align="center">Web- React & Springboot</td>
 <td><a href="https://github.com/testerhyuk/squarebox">스퀘어박스</a> (OTT Squarebox)</td>
 </tr>
 <tr>
-<td align="center">2022.11 - 2022.12</td>
-<td align="center">Web-React, TypeScript, Nextjs</td>
-<td><a href="https://github.com/testerhyuk/smalluniverse">소우주</a> (커뮤니티)</td>
+<td align="center">2023.02 - 2023.04</td>
+<td align="center">Web-React, Springboot</td>
+<td><a href="https://github.com/testerhyuk/vanilla">바닐라 쇼핑몰</a> (쇼핑몰)</td>
 </tr>
 </tbody>
 </table>
