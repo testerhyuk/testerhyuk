@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=Hyuk👔%20&fontSize=90)
 
 <p align="center" dir="auto">
-  Hi there 👋! I'm interested in ML, DL, React <br>
+  Hi there 👋! I'm interested in SpringBoot, AI, React <br>
   ___
 </p>
 
@@ -52,11 +52,15 @@
 
 <p dir="auto">
   <b>Backend　</b>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&amp;logo=Spring Boot&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&amp;logo=Spring Security&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Java-BE7928?style=flat-square&amp;logo=OpenJDK&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=Django&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/PostgreSQL-003545?style=flat-square&amp;logo=PostgreSQL&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/PostgreSQL-003545?style=flat-square&amp;logo=PostgreSQL&amp;logoColor=white" style="max-width: 100%;"></a><br><br>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=MariaDB&amp;logoColor=white" style="max-width: 100%;"></a>
+  <br><br>
   <b>Frontend　</b>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" style="max-width: 100%;"></a>
