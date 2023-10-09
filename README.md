@@ -35,14 +35,19 @@
 <td><a href="https://github.com/AIVLE-School-first-Big-Project/Acachu">어카추</a>(이미지와 리뷰를 활용한 인공지능 카페 추천 서비스)</td>
 </tr>
 <tr>
-<td align="center">2023.01 - 2023.01</td>
-<td align="center">Web- React & Springboot</td>
-<td><a href="https://github.com/testerhyuk/squarebox">스퀘어박스</a> (OTT Squarebox)</td>
-</tr>
-<tr>
 <td align="center">2023.02 - 2023.04</td>
 <td align="center">Web-React, Springboot</td>
 <td><a href="https://github.com/testerhyuk/vanilla">바닐라 쇼핑몰</a> (쇼핑몰)</td>
+</tr>
+<tr>
+<td align="center">2023.08 - 2023.08</td>
+<td align="center">Web- Springboot</td>
+<td><a href="https://github.com/testerhyuk/pharmacy_recommendation">약국 추천 서비스</a> (위치 기반 약국 추천 서비스)</td>
+</tr>
+<tr>
+<td align="center">2023.09 - 2023.09</td>
+<td align="center">Web- Springboot & React</td>
+<td><a href="https://github.com/testerhyuk/sns">SNS 서비스</a> (SNS)</td>
 </tr>
 </tbody>
 </table>
