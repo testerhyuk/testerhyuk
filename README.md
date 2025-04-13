@@ -49,6 +49,11 @@
 <td align="center">Web- Springboot & React</td>
 <td><a href="https://github.com/testerhyuk/sns">SNS 서비스</a> (SNS)</td>
 </tr>
+<tr>
+<td align="center">2025.03 - 2025.04</td>
+<td align="center">Web- Springboot API</td>
+<td><a href="https://github.com/testerhyuk/live_market">MSA 대규모 중고거래 서비스</a> (중고거래 서비스)</td>
+</tr>
 </tbody>
 </table>
 <br>
