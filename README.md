@@ -54,6 +54,11 @@
 <td align="center">Web- Springboot API</td>
 <td><a href="https://github.com/testerhyuk/live_market">MSA 대규모 중고거래 서비스</a> (중고거래 서비스)</td>
 </tr>
+<tr>
+<td align="center">2025.07 - 2025.08</td>
+<td align="center">Web- Springboot API</td>
+<td><a href="https://github.com/testerhyuk/live_market">스프링부트 AI 뉴스요약 서비스</a></td>
+</tr>
 </tbody>
 </table>
 <br>
