@@ -59,6 +59,11 @@
 <td align="center">Web- Springboot API</td>
 <td><a href="https://github.com/testerhyuk/onair">스프링부트 AI 뉴스요약 서비스</a></td>
 </tr>
+<tr>
+<td align="center">2026.01 - 2026.03</td>
+<td align="center">Web- Springboot API</td>
+<td><a href="https://github.com/hyuk-s-ecommerce-msa-project">게임 유통 플랫폼</a></td>
+</tr>
 </tbody>
 </table>
 <br>
