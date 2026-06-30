@@ -66,8 +66,13 @@
 </tr>
 <tr>
 <td align="center">2026.03 - 2026.04</td>
-<td align="center">Web- Springboot API</td>
+<td align="center">Web- Springboot API & Data Pipeline</td>
 <td><a href="https://github.com/testerhyuk/delivery">배달 서비스</a></td>
+</tr>
+<tr>
+<td align="center">2026.05 - 2026.06</td>
+<td align="center">Data Pipeline</td>
+<td><a href="https://github.com/testerhyuk/settlement-system">광고 예산 처리/분석 파이프라인</a></td>
 </tr>
 </tbody>
 </table>
