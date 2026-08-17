@@ -74,6 +74,11 @@
 <td align="center">Data Pipeline</td>
 <td><a href="https://github.com/testerhyuk/settlement-system">광고 예산 처리/분석 파이프라인</a></td>
 </tr>
+<tr>
+<td align="center">2026.05 - 2026.08</td>
+<td align="center">Spring Boot</td>
+<td><a href="https://github.com/testerhyuk/pacing-service">광고 예산 페이싱 시스템</a></td>
+</tr>
 </tbody>
 </table>
 <br>
